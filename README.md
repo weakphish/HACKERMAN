@@ -1,6 +1,8 @@
 # HACKERMAN
 This is a fork of tsumarios' Kali Dockerfile. It was born out my need for a reproducible environment to do some x86 stuff on my M1 Macbook, as QEMU is slow and I liked the idea of deploying it anywhere.
 
+I modified it to add some of my own personal stuff. Thank you to the orignal authors!
+
 ## Included tools
 These are the main **tools** which are included:
 
