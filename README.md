@@ -1,5 +1,5 @@
-# Kali-Linux-Dockerfile
-A simple dockerfile which allows you to build a _docker image_ starting from the latest official one of **Kali Linux** and including some useful tools.
+# HACKERMAN
+This is a fork of tsumarios' Kali Dockerfile. It was born out my need for a reproducible environment to do some x86 stuff on my M1 Macbook, as QEMU is slow and I liked the idea of deploying it anywhere.
 
 ## Included tools
 These are the main **tools** which are included:
@@ -33,7 +33,7 @@ docker build [-t your_image_name] .
 
 Check out [Kali Linux on a Docker container: the easiest way](https://tsumarios.medium.com/kali-linux-on-docker-container-the-easiest-way-e5a551348788) for more detailed info.
 
-#### Contacts
+#### Contacts (Original Author)
 
 - Email: marioraciti@pm.me
 - LinkedIn: linkedin.com/in/marioraciti
