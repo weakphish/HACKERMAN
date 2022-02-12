@@ -1,2 +1,2 @@
-#!/bin/sh
-docker run --rm -it --name hackerman --platform linux/amd64 rofrano/vagrant-provider:debian bash
+#!/bin/bash
+docker run --rm --name hackerbox -v share:/sharedstore -it hackerman 
